@@ -1,2 +1,0 @@
-# gcgen
-gift card generator
